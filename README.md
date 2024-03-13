@@ -1,6 +1,5 @@
 ## Welcome to eXtractor
-
-Extract or rip sprites from old retro game files.
+Extract graphics, such as sprites from retro game files.
 ZX Spectrum, Atari ST, Amiga etc...
 
 ### Utility Features
