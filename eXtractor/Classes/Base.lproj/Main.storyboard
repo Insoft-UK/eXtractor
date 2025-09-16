@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.Storyboard.XIB" version="3.0" toolsVersion="23094" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" initialViewController="B8D-0N-5wS">
+<document type="com.apple.InterfaceBuilder3.Cocoa.Storyboard.XIB" version="3.0" toolsVersion="23727" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" initialViewController="B8D-0N-5wS">
     <dependencies>
         <deployment identifier="macosx"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="23094"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="23727"/>
         <capability name="Image references" minToolsVersion="12.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -853,7 +853,7 @@
                         <outlet property="mainMenu" destination="AYu-sK-qS6" id="Scj-AI-iLn"/>
                     </connections>
                 </customObject>
-                <toolbar implicitIdentifier="09D11707-F4A3-4FD5-970E-AC5832E91C2B" autosavesConfiguration="NO" displayMode="iconAndLabel" sizeMode="regular" id="XmR-JU-ePu">
+                <toolbar implicitIdentifier="09D11707-F4A3-4FD5-970E-AC5832E91C2B" autosavesConfiguration="NO" showsBaselineSeparator="NO" displayMode="iconAndLabel" sizeMode="regular" id="XmR-JU-ePu">
                     <allowedToolbarItems>
                         <toolbarItem implicitItemIdentifier="NSToolbarShowColorsItem" id="bEb-mU-A6G"/>
                         <toolbarItem implicitItemIdentifier="NSToolbarShowFontsItem" id="fh7-Iy-uXu"/>
@@ -881,7 +881,7 @@
                         <windowStyleMask key="styleMask" titled="YES" miniaturizable="YES"/>
                         <rect key="contentRect" x="196" y="240" width="1024" height="768"/>
                         <rect key="screenRect" x="0.0" y="0.0" width="1440" height="900"/>
-                        <toolbar key="toolbar" implicitIdentifier="44A6F771-7586-4CFC-ABC5-C97C93B533DC" autosavesConfiguration="NO" displayMode="iconAndLabel" sizeMode="regular" id="b8Z-oV-d39">
+                        <toolbar key="toolbar" implicitIdentifier="44A6F771-7586-4CFC-ABC5-C97C93B533DC" autosavesConfiguration="NO" showsBaselineSeparator="NO" displayMode="iconAndLabel" sizeMode="regular" id="b8Z-oV-d39">
                             <allowedToolbarItems>
                                 <toolbarItem implicitItemIdentifier="NSToolbarSpaceItem" id="bdy-M1-2f5"/>
                                 <toolbarItem implicitItemIdentifier="NSToolbarFlexibleSpaceItem" id="MOs-Ca-nNB"/>
