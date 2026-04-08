@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.Storyboard.XIB" version="3.0" toolsVersion="23727" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" initialViewController="B8D-0N-5wS">
+<document type="com.apple.InterfaceBuilder3.Cocoa.Storyboard.XIB" version="3.0" toolsVersion="24765" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" initialViewController="B8D-0N-5wS">
     <dependencies>
         <deployment identifier="macosx"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="23727"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="24765"/>
         <capability name="Image references" minToolsVersion="12.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -885,7 +885,7 @@
                             <allowedToolbarItems>
                                 <toolbarItem implicitItemIdentifier="NSToolbarSpaceItem" id="bdy-M1-2f5"/>
                                 <toolbarItem implicitItemIdentifier="NSToolbarFlexibleSpaceItem" id="MOs-Ca-nNB"/>
-                                <toolbarItem implicitItemIdentifier="D731321E-D2F8-496E-A8A3-E5C28ADFE116" label="Zoom Out" paletteLabel="Zoom Out" tag="-1" bordered="YES" id="gIB-wm-llm">
+                                <toolbarItem implicitItemIdentifier="D731321E-D2F8-496E-A8A3-E5C28ADFE116" label="Zoom Out" paletteLabel="Zoom Out" tag="-1" id="gIB-wm-llm">
                                     <imageReference key="image" image="minus.magnifyingglass" catalog="system" symbolScale="large"/>
                                     <size key="minSize" width="32" height="25"/>
                                     <size key="maxSize" width="32" height="25"/>
@@ -893,7 +893,7 @@
                                         <action selector="zoomOut:" target="B8D-0N-5wS" id="Xo6-33-wEZ"/>
                                     </connections>
                                 </toolbarItem>
-                                <toolbarItem implicitItemIdentifier="F77046C9-13CA-48A6-920E-2EC2795BF342" label="Zoom In" paletteLabel="Zoom In" tag="-1" bordered="YES" id="HKI-AT-gwy">
+                                <toolbarItem implicitItemIdentifier="F77046C9-13CA-48A6-920E-2EC2795BF342" label="Zoom In" paletteLabel="Zoom In" tag="-1" id="HKI-AT-gwy">
                                     <imageReference key="image" image="plus.magnifyingglass" catalog="system" symbolScale="large"/>
                                     <size key="minSize" width="32" height="25"/>
                                     <size key="maxSize" width="32" height="25"/>
